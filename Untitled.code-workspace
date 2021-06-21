@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "findex-test",
+			"path": "."
+		},
+		{
+			"path": "../Desktop/node-website"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
